@@ -13,6 +13,14 @@
 					<key>url</key>
 					<string>https://arfront-maps.s3.cn-northwest-1.amazonaws.com.cn/sensei/Unity-iPhone.ipa</string>
 				</dict>
+				<dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>https://github.com/DongFuDong/plist/blob/master/LogoBanner.png</string>
+               </dict>
 			</array>
 			<key>metadata</key>
 			<dict>
