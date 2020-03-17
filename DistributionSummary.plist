@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Unity-iPhone.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>E03F2E6266A73971A988FA244293E00AA3658A0F</string>
+				<key>dateExpires</key>
+				<string>10/9/20</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>Q274CDHX6M.com.arfront.ikebana</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>Q274CDHX6M</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>Q274CDHX6M.com.arfront.ikebana</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>ikebana.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>128507c5-54f0-4d2a-b6a3-a7ab41cffdcd</string>
+				<key>name</key>
+				<string>ikebana</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>Q274CDHX6M</string>
+				<key>name</key>
+				<string>Arfront Technologies Inc.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
